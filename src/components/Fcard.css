@@ -1,0 +1,111 @@
+.card {
+  flex: 1.1;
+  background: white;
+  border: 1px solid whitesmoke;
+  margin: 0px 30px;
+  border-radius: 6px;
+  min-height: 400px;
+  padding: 15px;
+}
+.card img {
+  width: 100px;
+  height: 100px;
+  padding: 2px;
+  margin-top: 15px;
+  margin-left: -5px;
+}
+.s-card {
+  flex: 1.1;
+  background: white;
+  border: 1px solid whitesmoke;
+  margin: 0px 30px;
+  border-radius: 6px;
+  min-height: 400px;
+  padding: 15px;
+}
+.s-card img {
+  width: 100px;
+  height: 100px;
+  padding: 2px;
+  margin-top: 15px;
+  margin-left: -5px;
+}
+.t-card {
+  padding: 0px;
+
+  flex: 1.1;
+  background: white;
+  border: 1px solid whitesmoke;
+  margin: 0px 30px;
+  border-radius: 6px;
+  min-height: 400px;
+}
+.t-card img {
+  width: 100px;
+  height: 100px;
+  padding: 2px;
+  margin-top: 15px;
+  margin-left: -5px;
+}
+.theme img {
+  width: 294px;
+  margin-left: -32px;
+  margin-right: -32px;
+  margin-bottom: -23px;
+
+  height: 160px;
+}
+.theme1 img {
+  width: 292px;
+  margin-left: -32px;
+  margin-right: -32px;
+  margin-bottom: -23px;
+  margin-top: -20px;
+  height: 160px;
+}
+.theme2 img {
+  width: 265px;
+  margin-left: -32px;
+  margin-right: -32px;
+  margin-bottom: -23px;
+  position: relative;
+  height: 122px;
+}
+.s-btn {
+  position: absolute;
+  background: white;
+  border-radius: 6px;
+  border: none;
+  padding: 10px 30px;
+  font-weight: bold;
+  top: 670px;
+  cursor: pointer;
+  left: 638px;
+}
+.f-btn {
+  background: white;
+  border-radius: 5px;
+  border: none;
+  padding: 10px 30px;
+  font-weight: bold;
+  position: absolute;
+  top: 670px;
+  cursor: pointer;
+
+  left: 280px;
+}
+.t-btn {
+  background: white;
+  border-radius: 5px;
+  border: none;
+  padding: 10px 30px;
+  font-weight: bold;
+  position: absolute;
+  top: 670px;
+  cursor: pointer;
+
+  left: 970px;
+}
+.see-more {
+  text-decoration: none;
+}
